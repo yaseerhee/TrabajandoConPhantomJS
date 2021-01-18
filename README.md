@@ -7,3 +7,4 @@ He estado trabajando con PhantomJS y he creado un programa que realice *Capturas
 - He usado para todo *JavaScript*.
 - Para las comprobaciones he usado el navegador de *PhantomJs*.
 
+### Nivel: básico/medio :green_book:
